@@ -1,0 +1,20 @@
+
+
+Some things to consider logging are an application's incoming and outgoing messages, services and functions, business cases and user journeys, data operations, system events, performance statistics, and threats and vulnerabilities. 
+
+Log monitoring software is built to perform essential event log monitoring tasks consistently and accurately. 
+
+These tools allow you to generate alerts and reports to help you stay on top of log monitoring and create clear visualizations for at-a-glance insights into network performance. 
+
+There are recommended logging tools, such as 
+LogDNA 
+Sumo Logic 
+Mezmo 
+Instana 
+Datadog 
+
+Distributed logging is a technique used in computing systems to collect and store log data from multiple sources across different nodes or servers, 
+
+Distributed tracing is the practice of tracking a single request or transaction as it moves through a distributed system, 
+
+Important concepts in distributed tracing include trace, span, trace ID, parent/child relation, context propagation, and instrumentation.

@@ -1,0 +1,30 @@
+Logging implmentation
+
+Common application logs are 
+event 
+error 
+access 
+performance  
+debugging logs 
+
+Most logging frameworks share common features regarding levels, log messages, and destinations. 
+
+Structured logging enables standardized formats for effortless parsing, querying, and analytics. 
+
+A log management system must parse the files to extract meaningful information from logs.
+
+Log parsers are built into the log management software’s engine.
+
+Monitoring and analyzing logs enhance the observability of the network, providing transparency and visibility. 
+
+Storing log data is required for different reasons, including the reliability of systems, the security posture of environments, improvement in IT systems’ decision-making, and auditing purposes. 
+
+Visualizing the log data spanning days or weeks is necessary to gain insights into an app’s behavior and performance changes over time.
+
+Storing logs in the cloud enables scalable storage capacity that aligns with log data needs.
+
+You can back up data to on-premises servers or in the cloud for storing logs.
+
+A few analytical dimensions that give a relative idea of how long the retention period should be criticality, security, maturity, frequency, cost-effectiveness, and discovery and resolution.
+
+It is important to consider the best practices for storing logs.
