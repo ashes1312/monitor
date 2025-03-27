@@ -1,0 +1,36 @@
+
+The three pillars of observability are 
+logs 
+metrics 
+traces
+
+Logs capture detailed information about individual events or transactions, giving you a chronological record of what happened.
+
+Metrics are numerical measurements with accompanying attributes that show the health of a particular system component.
+
+Traces are records of the information pathways or workflows that are created to follow a work item, like a transaction.
+
+Cloud native observability is the practice of monitoring and understanding the behavior of cloud-native applications running in dynamic and distributed environments.
+
+The pillars of cloud enterprise observability are automation, context, and intelligent action.
+
+Cloud native observability tools and solutions are critical for organizations and can correlate telemetry data across cloud environments at a massive scale.
+
+Popular cloud native observability tools: 
+Prometheus
+Jaeger 
+FluentD 
+Thanos 
+Datadog 
+New Relic 
+AWS CloudWatch 
+Google Cloud Monitoring 
+Instana 
+Mezmo
+
+Sampling in logging is the practice of collecting only a subset of log events for analysis or storage. Instead of logging every single event or piece of data, a subset is selected randomly or by some other criteria for recording.
+
+Advantages of sampling: Reduced overhead, enhanced performance, cost-effectiveness, improved accuracy, and better scalability.
+
+Disadvantages of sampling: Missing details, inaccurate data, limited resolution, masked outliers, and challenges in diagnosing complex performance issues.
+
