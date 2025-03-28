@@ -1,0 +1,24 @@
+Telemetry is the automated process of collecting and transmitting data from remote or inaccessible sources to support monitoring and analysis.
+
+Telemetry is essential for developers to spot application errors and crashes, analyze performance metrics, use analytics, and monitor security events.
+
+The key benefits of telemetry include remote feedback, real-time monitoring of application performance, user activity and experience, and network analytics and security.
+
+Distributed tracing is a technique of observing requests transmitted through distributed cloud environments.
+
+Popular telemetry tools: 
+Datadog 
+Dynatrace
+New Relic 
+Sumo Logic 
+Splunk 
+Instana.
+
+Popular distributed tracing tools: 
+Atatus
+SigNoz 
+Jaeger 
+Zipkin 
+HoneyComb 
+New Relic 
+Dynatrace
